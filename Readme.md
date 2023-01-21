@@ -1,1 +1,5 @@
-Gaess dihapus dulu ya, ada banyak errornya ternyata :v
+udah diperbaiki gaess :v
+
+instalasi:
+download reponya
+make atau mingw32-make

@@ -26,7 +26,7 @@ const char NUM_ERR_MSG[] = "Input salah. Harus ada 3 koefisien. Ketik 'h' untuk 
 const char OVERFLOW_MSG[]  = "Buffer overflow. Ulangi lagi. Ketik 'h' untuk membuka opsi bantuan.\n";
 
 const char HELP_MSG[] = "------------------------------------------------------\n"
-                        "'h' atau 'help'           - print this message.\n"
+                        "'h' atau 'help'           - Tampilkan pesan ini.\n"
                         "'q' atau 'quit'           - exit.\n"
                         "Masukkan 3 koefisien (a b c) - mengkalkulasi ekuasi ax²+bx+c=0.\n"
                         "------------------------------------------------------\n"
